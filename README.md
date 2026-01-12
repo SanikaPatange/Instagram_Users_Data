@@ -15,5 +15,4 @@
     The data represents a sample Instagram user dataset used for analytical and learning purposes. Before analysis, the dataset was reviewed to understand its structure and key attributes.
 
 
-
-    <img width="1276" height="712" alt="Image" src="https://github.com/user-attachments/assets/23401188-945b-4030-8c61-278f657c6d5e" />
+ <img width="1276" height="712" alt="Image" src="https://github.com/user-attachments/assets/23401188-945b-4030-8c61-278f657c6d5e" />
