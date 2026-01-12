@@ -13,3 +13,7 @@
 🗂️ Dataset Description
     The dataset used in this project contains Instagram user-level information such as user IDs or usernames, number of followers and following, total post count, likes, and comments.
     The data represents a sample Instagram user dataset used for analytical and learning purposes. Before analysis, the dataset was reviewed to understand its structure and key attributes.
+
+
+
+    <img width="1276" height="712" alt="Image" src="https://github.com/user-attachments/assets/23401188-945b-4030-8c61-278f657c6d5e" />
